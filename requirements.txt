@@ -1,0 +1,13 @@
+anthropic
+edge-tts
+openai-whisper   # optional: exact word-level subtitle timing (falls back to estimation)
+mutagen
+moviepy>=2.0
+Pillow
+numpy
+requests
+APScheduler
+python-dotenv
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
